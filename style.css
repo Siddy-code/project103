@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(90deg, rgba(9, 39, 64, 1) 19%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    color: aliceblue;
+}
+
+.heading {
+    width: 25%;
+    font-size: 26px;
+    font-family: 'Playfair Display', serif;
+}
+
+#camera {
+    border: 5px ridge aqua;
+    width: 350px;
+    height: 300px;
+
+}
+
+.name_of_objects {
+    font-family: 'Lobster', cursive;
+}
+#result_object_name,#result_object_accuracy{
+    font-size: 22px;
+}
